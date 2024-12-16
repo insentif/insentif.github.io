@@ -1,7 +1,10 @@
-# insentif.github.io
-Jalan Cepat Menuju Monetisasi Aplikasi
+# Insentif
+Karena setiap profesi memiliki arti
 
-## Coinomics & Web3
+![qrif](https://github.com/user-attachments/assets/6793f951-8271-4d81-8a82-2cb997241176)
+
+
+## Tokenomics & Web3
 
 Tumbuh kembang bersama dengan teknologi Blockchain dan Web3 untuk digitalisasi Pembayaran. Terintegrasi dengan sistem QRIS.
 
