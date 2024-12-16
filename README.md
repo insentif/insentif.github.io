@@ -2,8 +2,9 @@
 CrowdFunding Berbasis Komunitas. Langkah:
 1. Tawarkan untuk menjadi donatur CrowdFunding, dengan komitmen mingguan melakukan donasi ke QRIS:  
 ![qrif](https://github.com/user-attachments/assets/6793f951-8271-4d81-8a82-2cb997241176)  
-2. Dana yang masuk maka akan dibagi menjadi 50% Developer - 50% Operasional Informatika Digital Bisnis
-3. Operasional Informatika Digital Bisnis antara lain:
+2. Untuk nilai dana yang disetorkan melalui qris tambahkan angka unik di belakang nominalnya dari NPM/NIM. Misal NPM 113040087 maka dana yang disetorkan jika 2000 rupiah menjadi 2087. Nomor unik ini untuk identifikasi bagi hasil untuk developer.
+3. Dana yang masuk maka akan dibagi menjadi 50% Developer - 50% Operasional Informatika Digital Bisnis
+4. Operasional Informatika Digital Bisnis antara lain:
    * Pembelian dan perpanjangan domain
    * Biaya cloud
    * Publikasi Produk
