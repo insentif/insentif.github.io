@@ -18,6 +18,7 @@ Misi yang dilaksanakan:
 1. Untuk penerimaan pembayaran silahkan buat dahulu [Qubic Wallet](https://wallet.qubic.org/). Simpan baik-baik seed phrase atau private key di tempat yang aman dan jangan sampai hilang. Kehilangan seed phrase atau private key sama saja dengan kehilangan saldo di wallet. Setelah di simpan coba import seed phrase atau private key tersebut di wallet versi mobile kaka.
 2. Gabung dengan [group Telegram dari ReddCoin](https://t.me/ReddcoinOfficial) agar bisa menerima saweran harian dari member.
 3. [Mining RIC](https://riecoin.xyz/rieMiner/) dengan menggunakan [Pool Stelo](https://stelo.xyz/Mining) untuk mendapatkan bonus mining harian.
+4. Jika memiliki hardware yang bagus bisa dicoba mining [AVN](https://www.avn.network/en/mining) atau [AIX](https://astrix-network.com/).
 
 Coin yang didukung:
 1. [Avian](https://www.avn.network/en)
