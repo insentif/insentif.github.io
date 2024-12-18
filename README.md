@@ -20,6 +20,7 @@ Misi yang dilaksanakan:
 3. [Mining RIC](https://riecoin.xyz/rieMiner/) dengan menggunakan [Pool Stelo](https://stelo.xyz/Mining) untuk mendapatkan bonus mining harian.
 4. Jika memiliki hardware yang bagus bisa dicoba mining [AVN](https://www.avn.network/en/mining) atau [AIX](https://astrix-network.com/).
 5. Sudah puas dengan opsi PoW(Proof of Work)? tenang selanjutnya ada opsi POS(Proof of Stake) dengan [Reddcoin](https://www.reddcoin.com/) atau [ZENZO](https://zenzo.io/)
+6. Punya VPS? bisa buat masternode [DigitalNote](https://digitalnote.org/).
 
 Coin yang didukung:
 1. [Avian](https://www.avn.network/en)
