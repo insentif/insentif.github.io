@@ -19,6 +19,7 @@ Misi yang dilaksanakan:
 2. Gabung dengan [group Telegram dari ReddCoin](https://t.me/ReddcoinOfficial) agar bisa menerima saweran harian dari member.
 3. [Mining RIC](https://riecoin.xyz/rieMiner/) dengan menggunakan [Pool Stelo](https://stelo.xyz/Mining) untuk mendapatkan bonus mining harian.
 4. Jika memiliki hardware yang bagus bisa dicoba mining [AVN](https://www.avn.network/en/mining) atau [AIX](https://astrix-network.com/).
+5. Tidak punya hardware yang mumpuni untuk PoW(Proof of Work)? tenang ada opsi POS(Proof of Stake) dengan [Reddcoin](https://www.reddcoin.com/) atau [ZENZO](https://zenzo.io/)
 
 Coin yang didukung:
 1. [Avian](https://www.avn.network/en)
