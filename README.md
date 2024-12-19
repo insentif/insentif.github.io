@@ -15,21 +15,21 @@ CrowdFunding Berbasis Komunitas. Langkah:
 Dana yang disetorkan ke pengembang/developer berupa coin crypto yang lebih hijau serta mendukung para developer komunitas untuk menggiatkan Tokenomics.
 Tumbuh kembang bersama dengan teknologi Blockchain dan Web3 untuk digitalisasi Pembayaran.  
 Misi yang dilaksanakan:
-1. Untuk penerimaan pembayaran silahkan buat dahulu [Qubic Wallet](https://wallet.qubic.org/). Simpan baik-baik seed phrase atau private key di tempat yang aman dan jangan sampai hilang. Kehilangan seed phrase atau private key sama saja dengan kehilangan saldo di wallet. Setelah di simpan coba import seed phrase atau private key tersebut di wallet versi mobile kaka.
+1. Untuk penerimaan pembayaran silahkan buat dahulu [Qubic Wallet](https://wallet.qubic.org/) dan [DigitalNote](https://digitalnote.org/). Simpan baik-baik seed phrase atau private key di tempat yang aman dan jangan sampai hilang. Kehilangan seed phrase atau private key sama saja dengan kehilangan saldo di wallet. Setelah di simpan coba import seed phrase atau private key tersebut di wallet versi mobile kaka.
 2. Gabung dengan [group Telegram dari ReddCoin](https://t.me/ReddcoinOfficial) agar bisa menerima saweran harian dari member.
 3. [Mining RIC](https://riecoin.xyz/rieMiner/) dengan menggunakan [Pool Stelo](https://stelo.xyz/Mining) untuk mendapatkan bonus mining harian.
 4. Jika memiliki hardware yang bagus bisa dicoba mining [AVN](https://www.avn.network/en/mining) atau [AIX](https://astrix-network.com/).
-5. Sudah puas dengan opsi PoW(Proof of Work)? tenang selanjutnya ada opsi POS(Proof of Stake) dengan [Reddcoin](https://www.reddcoin.com/) atau [ZENZO](https://zenzo.io/)
+5. Sudah puas dengan opsi PoW(Proof of Work)? tenang selanjutnya ada opsi POS(Proof of Stake) dengan [Reddcoin](https://www.reddcoin.com/)
 6. Punya VPS? bisa buat masternode [DigitalNote](https://digitalnote.org/).
 
-Coin yang didukung:
+### Coin yang didukung
+Berikut ini adalah coin yang di eksplorasi bersama tim
 1. [Avian](https://www.avn.network/en)
-2. [BitTorrent](https://www.bittorrent.com/token/btt/)
-3. [Dimecoin](https://www.dimecoinnetwork.com/)
-4. [Qubic](https://qubic.org/)
-5. [DigitalNote](https://digitalnote.org/)
-6. [eCash](https://e.cash/)
-7. [Reddcoin](https://www.reddcoin.com/)
-8. [ZENZO](https://zenzo.io/)
-9. [AIX](https://astrix-network.com/)
-10. [RieCoin](https://riecoin.xyz/rieMiner/)
+2. [Dimecoin](https://www.dimecoinnetwork.com/)
+3. [Qubic](https://qubic.org/)
+4. [DigitalNote](https://digitalnote.org/)
+5. [eCash](https://e.cash/)
+6. [Reddcoin](https://www.reddcoin.com/)
+7. [ZENZO](https://zenzo.io/)
+8. [AIX](https://astrix-network.com/)
+9. [RieCoin](https://riecoin.xyz/rieMiner/)
