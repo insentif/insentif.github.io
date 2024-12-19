@@ -12,7 +12,7 @@ CrowdFunding Berbasis Komunitas. Langkah:
 
 ## Tokenomics & Web3
 Untuk penerimaan dana dalam bentuk kripto bisa menggunakan alamat:
-1. (RIC)[https://chainz.cryptoid.info/ric/address.dws?ric1p6ngjsltpthrk9q0nhjjr0rn6swx57fv7dzeaq9st3dcpy68q0ylswtdj0z.htm]
+1. [RIC](https://chainz.cryptoid.info/ric/address.dws?ric1p6ngjsltpthrk9q0nhjjr0rn6swx57fv7dzeaq9st3dcpy68q0ylswtdj0z.htm)
    ![image](https://github.com/user-attachments/assets/838c315a-f525-46b9-ad90-9f6b70c2981a)
    ```txt
    ric1p6ngjsltpthrk9q0nhjjr0rn6swx57fv7dzeaq9st3dcpy68q0ylswtdj0z
