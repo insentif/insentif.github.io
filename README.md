@@ -2,7 +2,7 @@
 CrowdFunding Berbasis Komunitas. Langkah:
 1. Carilah sponsor CrowdFunding sebanyak-banyaknya. Tawarkan jasa/konsultasi/pelatihan IT, dengan komitmen harian/mingguan melakukan donasi ke QRIS:  
 ![qrif](https://github.com/user-attachments/assets/6793f951-8271-4d81-8a82-2cb997241176)  
-2. Untuk nilai dana yang disetorkan melalui qris tambahkan angka unik di belakang nominalnya dari NPM/NIM. Misal NPM 113040087 maka dana yang disetorkan jika 2000 rupiah menjadi 2087. Nomor unik ini untuk identifikasi bagi hasil untuk developer.
+2. Untuk nilai dana yang disetorkan melalui qris tambahkan angka unik di belakang nominalnya dari NPM/NIM. Misal NPM 113040087 maka dana yang disetorkan jika 2000 rupiah menjadi 2487. Nomor unik ini untuk identifikasi bagi hasil untuk developer. Dimana 4 adalah angkatan dan 87 adalah dua dijit NPM terakhir.
 3. Dana yang masuk maka akan dibagi menjadi 50% Developer - 50% Operasional Informatika Digital Bisnis
 4. Operasional Informatika Digital Bisnis antara lain:
    * Pembelian dan perpanjangan domain
@@ -12,7 +12,7 @@ CrowdFunding Berbasis Komunitas. Langkah:
 
 ## Tokenomics & Web3
 
-Untuk mengenal insentif berbasis Tokenomics silahkan jalankan dulu aplikasi [Insentif RIC](/ric)
+Untuk mengenal insentif berbasis Tokenomics silahkan jalankan dulu aplikasi [Insentif DMS](/dms)
 
 Untuk penerimaan dana dalam bentuk kripto bisa menggunakan [RieCoin (RIC)](https://chainz.cryptoid.info/ric/address.dws?ric1p6ngjsltpthrk9q0nhjjr0rn6swx57fv7dzeaq9st3dcpy68q0ylswtdj0z.htm) dengan alamat:  
 ![image](https://github.com/user-attachments/assets/838c315a-f525-46b9-ad90-9f6b70c2981a)  
